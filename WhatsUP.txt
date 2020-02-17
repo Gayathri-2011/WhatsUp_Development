@@ -20,6 +20,8 @@ Author: Arulprasath
 
 9. Adding options to create groups upto 200 users.
 
+9.Adding options to create groups upto 500 users.
+
 10. Adding new feature
 11. Connecting people
 
